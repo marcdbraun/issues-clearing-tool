@@ -69,10 +69,10 @@ const IssuesClearingTool = () => {
     {
       title: "The Story",
       role: "Speaker",
-      prompt: "I make up a story that... / I make this mean...",
+      prompt: "I tell myself a story that... / I make this mean...",
       field: "story",
       helpText: "Own your interpretation. Use phrases like 'I think...', 'In my opinion...', 'My judgment is...' This separates facts from meaning.",
-      placeholder: "Example: 'I make up a story that you don't value our meetings' or 'I make this mean that I'm not a priority for you'"
+      placeholder: "Example: 'I tell myself a story that you don't value our meetings' or 'I make this mean that I'm not a priority for you'"
     },
     {
       title: "The Feeling",
